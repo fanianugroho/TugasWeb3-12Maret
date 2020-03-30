@@ -16,8 +16,10 @@ class App extends React.Component {
       <div className="App">
         <Navbar/>
         <Routing/>
+        
       </div>
     );
+    //cek lagi
   }
   
 }
