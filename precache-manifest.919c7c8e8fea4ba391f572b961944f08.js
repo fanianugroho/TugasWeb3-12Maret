@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e0b20e06f6de16f42e233b5efe220a5",
+    "revision": "284f45ce4b8398f46967c813da53ab6b",
     "url": "/WEB3A-15108-Hani-Fania-REACT/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css"
   },
   {
-    "revision": "7fe7ad0100e423b95118",
+    "revision": "efdcdfe3dd0e3725456e",
     "url": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7fe7ad0100e423b95118",
-    "url": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.ce0d7c82.chunk.js"
+    "revision": "efdcdfe3dd0e3725456e",
+    "url": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.46340956.chunk.js"
   },
   {
     "revision": "366e35f5bd711f7920b1",
