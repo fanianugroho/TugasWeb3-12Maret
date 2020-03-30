@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import {Switch, Route} from 'react-router-dom';
 import LandingPage from '../../app/landing-page';
 import GalleryPage from '../../app/gallery-page'
-
+//cek
 class Router extends Component {
     render() {
         return (
