@@ -1,17 +1,15 @@
 import React, { Component } from 'react'; 
 import { Layout, Row, Col } from 'antd'; 
 import '../assets/css/landing.css' 
-import { Carousel , Steps } from 'antd';
+import { Carousel } from 'antd';
 
 const { Content , Footer} = Layout;
-const { Step } = Steps;
 
 class LandingComponent extends Component{
     render(){
         const image1 = require(`../assets/images/picture.png`);
         const image2 = require(`../assets/images/picture2.png`);
-        const image3 = require(`../assets/images/picture3.png`); 
-        const {initialData,showModal,handleOk,handleCancel} = this.props; 
+        const image3 = require(`../assets/images/picture3.png`);  
         return(
             <Layout className="landing-container-transparant">
                 

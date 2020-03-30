@@ -30,7 +30,7 @@ class Navbar extends Component {
       <Menu onClick={this.handleClick} selectedKeys={[this.state.current]} mode="horizontal">
         <Menu.Item key="smile">
         <SmileFilled />
-            <Link to="/">About Me</Link> 
+            <Link to="/WEB3A-15108-Hani-Fania-REACT">About Me</Link> 
         </Menu.Item>
         <Menu.Item key="bookfilled">
         <BookFilled />
