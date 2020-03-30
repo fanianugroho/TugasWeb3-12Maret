@@ -58,13 +58,7 @@ class PortofolioComponent extends Component{
                                 </Card>
                                 </Col>
                                 <Col span={90}>
-                                <Card
-                                    hoverable
-                                    style={{ width: 300 }}
-                                    cover={<img alt="example" src={image3} />}
-                                >
-                                    <Meta title="Soekarno Hatta International Airport" description="Tangerang - Indonesia" />
-                                </Card>
+                                
                                 </Col>
                                 </Row>
                                     <br/>
