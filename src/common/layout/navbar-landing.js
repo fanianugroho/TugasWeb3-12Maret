@@ -34,7 +34,7 @@ class Navbar extends Component {
         </Menu.Item>
         <Menu.Item key="bookfilled">
         <BookFilled />
-          <Link to="/portofolio">Gallery</Link>
+          <Link to="/gallery">Gallery</Link>
         </Menu.Item>
         <SubMenu
           title={

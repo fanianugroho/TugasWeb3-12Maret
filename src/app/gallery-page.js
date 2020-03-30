@@ -1,10 +1,10 @@
 import React, {Component} from 'react'; 
-import PortofolioComponent from '../modules/portofolio-component'
+import PortofolioComponent from '../modules/gallery-component'
 
 
 
 
-class PortofolioPage extends Component {
+class GalleryPage extends Component {
     state ={
         visible: false,
     }
@@ -47,4 +47,4 @@ class PortofolioPage extends Component {
     }
 }
 
-export default PortofolioPage;
+export default GalleryPage;

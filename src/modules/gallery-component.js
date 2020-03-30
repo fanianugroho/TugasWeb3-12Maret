@@ -1,6 +1,6 @@
 import React, { Component } from 'react'; 
 import { Layout, Row, Col, Card } from 'antd'; 
-import '../assets/css/portofolio.css' 
+import '../assets/css/gallery.css' 
 const { Meta } = Card;
 
 const { Content ,Footer} = Layout; 
