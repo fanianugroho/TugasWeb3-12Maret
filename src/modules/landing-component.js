@@ -46,7 +46,7 @@ class LandingComponent extends Component{
                                 <Col span={24}>
                                     
                                     <div className="title-container">
-                                        <br/><br/><br/><br/><br/><br/><br/>
+                                        <br/><br/><br/><br/><br/>
                                         <span className="text-black title-biggest bold">Hello !</span>
                                         <br/>
                                         <span className="text-soft-blue title-medium bold">I'm Hani Fania Nugroho</span>
