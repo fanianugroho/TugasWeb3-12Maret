@@ -37,7 +37,7 @@ class PortofolioComponent extends Component{
                                 <br/>
                                 <br/>
                                 <br/>
-                            <div className="site-card-wrapper-transparant" style={{ marginLeft: 230 }}>
+                            <div className="site-card-wrapper-transparant" style={{ marginLeft: 190 }}>
                             <Row gutter={100}>
                                 <Col span={90}>
                                 <Card
