@@ -42,7 +42,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image1} />}
                                 >
                                     <Meta title="Masjid Agung Ar-Rahman" description="Banten - Indonesia" />
@@ -51,7 +51,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image2} />}
                                 >
                                     <Meta title="Tour Sewindu Tulus" description="Yogyakarta - Indonesia" />
@@ -60,7 +60,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image3} />}
                                 >
                                     <Meta title="Soekarno Hatta International Airport" description="Tangerang - Indonesia" />
@@ -75,7 +75,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image4} />}
                                 >
                                     <Meta title="Senayan City" description="Jakarta - Indonesia" />
@@ -84,7 +84,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image5} />}
                                 >
                                     <Meta title="Jl.Braga" description="Bandung - Indonesia" />
@@ -93,7 +93,7 @@ class PortofolioComponent extends Component{
                                 <Col span={90}>
                                 <Card
                                     hoverable
-                                    style={{ width: 350 }}
+                                    style={{ width: 300 }}
                                     cover={<img alt="example" src={image6} />}
                                 >
                                     <Meta title="Pantai Sadranan" description="Yogyakarta - Indonesia" />
