@@ -38,7 +38,7 @@ class PortofolioComponent extends Component{
                                 <br/>
                                 <br/>
                             <div className="site-card-wrapper-transparant" style={{ marginLeft: 250 ,marginRight: 250 }}>
-                            <Row gutter={100}>
+                            <Row gutter={50}>
                                 <Col span={90}>
                                 <Card
                                     hoverable
@@ -71,7 +71,7 @@ class PortofolioComponent extends Component{
                                     <br/>
                                     <br/>
                                     <br/>
-                                <Row gutter={100}>
+                                <Row gutter={50}>
                                 <Col span={90}>
                                 <Card
                                     hoverable
