@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css",
-    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.187651b1.chunk.js",
-    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.187651b1.chunk.js.map",
+    "main.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.46214aba.chunk.css",
+    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.fb47ef80.chunk.js",
+    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.fb47ef80.chunk.js.map",
     "runtime-main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js",
     "runtime-main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.62cef236.chunk.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js",
     "static/js/2.62cef236.chunk.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js.map",
     "index.html": "/WEB3A-15108-Hani-Fania-REACT/index.html",
-    "precache-manifest.f0398f65b7c086e087891141bdb7e766.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.f0398f65b7c086e087891141bdb7e766.js",
+    "precache-manifest.3ff6a82171510eb8803973ea9ce9c454.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.3ff6a82171510eb8803973ea9ce9c454.js",
     "service-worker.js": "/WEB3A-15108-Hani-Fania-REACT/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css.map",
-    "static/css/main.4e098864.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css.map",
+    "static/css/main.46214aba.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.46214aba.chunk.css.map",
     "static/js/2.62cef236.chunk.js.LICENSE.txt": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/WEB3A-15108-Hani-Fania-REACT/static/media/1.6fd7f59f.JPG",
     "static/media/2.jpeg": "/WEB3A-15108-Hani-Fania-REACT/static/media/2.6db70d24.jpeg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.0a7ec760.js",
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.62cef236.chunk.js",
-    "static/css/main.4e098864.chunk.css",
-    "static/js/main.187651b1.chunk.js"
+    "static/css/main.46214aba.chunk.css",
+    "static/js/main.fb47ef80.chunk.js"
   ]
 }
