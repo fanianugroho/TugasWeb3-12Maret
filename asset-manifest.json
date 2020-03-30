@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css",
-    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.32899f90.chunk.js",
-    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.32899f90.chunk.js.map",
+    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.187651b1.chunk.js",
+    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.187651b1.chunk.js.map",
     "runtime-main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js",
     "runtime-main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.1196d7f5.chunk.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js",
-    "static/js/2.1196d7f5.chunk.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js.map",
+    "static/js/2.62cef236.chunk.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js",
+    "static/js/2.62cef236.chunk.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js.map",
     "index.html": "/WEB3A-15108-Hani-Fania-REACT/index.html",
-    "precache-manifest.c3bb5d9112ccd47bfe347cace4a3e46c.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.c3bb5d9112ccd47bfe347cace4a3e46c.js",
+    "precache-manifest.f0398f65b7c086e087891141bdb7e766.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.f0398f65b7c086e087891141bdb7e766.js",
     "service-worker.js": "/WEB3A-15108-Hani-Fania-REACT/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css.map",
     "static/css/main.4e098864.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css.map",
-    "static/js/2.1196d7f5.chunk.js.LICENSE.txt": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js.LICENSE.txt",
+    "static/js/2.62cef236.chunk.js.LICENSE.txt": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.62cef236.chunk.js.LICENSE.txt",
     "static/media/1.JPG": "/WEB3A-15108-Hani-Fania-REACT/static/media/1.6fd7f59f.JPG",
     "static/media/2.jpeg": "/WEB3A-15108-Hani-Fania-REACT/static/media/2.6db70d24.jpeg",
     "static/media/3.jpg": "/WEB3A-15108-Hani-Fania-REACT/static/media/3.0760cb81.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.0a7ec760.js",
     "static/css/2.1bd2ab2f.chunk.css",
-    "static/js/2.1196d7f5.chunk.js",
+    "static/js/2.62cef236.chunk.js",
     "static/css/main.4e098864.chunk.css",
-    "static/js/main.32899f90.chunk.js"
+    "static/js/main.187651b1.chunk.js"
   ]
 }
