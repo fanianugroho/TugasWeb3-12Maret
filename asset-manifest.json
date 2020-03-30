@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css",
-    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.8eb773da.chunk.js",
-    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.8eb773da.chunk.js.map",
+    "main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.ff0a73b2.chunk.js",
+    "main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/main.ff0a73b2.chunk.js.map",
     "runtime-main.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js",
     "runtime-main.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/runtime-main.0a7ec760.js.map",
     "static/css/2.1bd2ab2f.chunk.css": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.1196d7f5.chunk.js": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js",
     "static/js/2.1196d7f5.chunk.js.map": "/WEB3A-15108-Hani-Fania-REACT/static/js/2.1196d7f5.chunk.js.map",
     "index.html": "/WEB3A-15108-Hani-Fania-REACT/index.html",
-    "precache-manifest.d6f9b33a79cc0b8d05b32a2b0929fb7c.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.d6f9b33a79cc0b8d05b32a2b0929fb7c.js",
+    "precache-manifest.3262d89044944c189231f4a4d8ff4a0e.js": "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.3262d89044944c189231f4a4d8ff4a0e.js",
     "service-worker.js": "/WEB3A-15108-Hani-Fania-REACT/service-worker.js",
     "static/css/2.1bd2ab2f.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/2.1bd2ab2f.chunk.css.map",
     "static/css/main.4e098864.chunk.css.map": "/WEB3A-15108-Hani-Fania-REACT/static/css/main.4e098864.chunk.css.map",
@@ -29,6 +29,6 @@
     "static/css/2.1bd2ab2f.chunk.css",
     "static/js/2.1196d7f5.chunk.js",
     "static/css/main.4e098864.chunk.css",
-    "static/js/main.8eb773da.chunk.js"
+    "static/js/main.ff0a73b2.chunk.js"
   ]
 }
