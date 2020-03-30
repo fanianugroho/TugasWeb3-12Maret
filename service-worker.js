@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.5c1ef473921778fc711da9173b7cb7ba.js"
+  "/WEB3A-15108-Hani-Fania-REACT/precache-manifest.919c7c8e8fea4ba391f572b961944f08.js"
 );
 
 self.addEventListener('message', (event) => {
