@@ -8,7 +8,6 @@ class Router extends Component {
         return (
             <Switch>
                 <Route exact path="/" component={LandingPage}/>
-                <Route exact path="/aboutme" component={LandingPage}/>
                 <Route path="/gallery" component={GalleryPage}/>
             </Switch>
         );
