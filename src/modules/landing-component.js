@@ -52,7 +52,7 @@ class LandingComponent extends Component{
                                 </Col>
                                 <Col span={24}>
                                     <div className="description-container desc-medium">
-                                        Mahasiswa Semester 4 D3 Komputer dan Sistem Informasi Sekolah Vokasi Universitas Gadjah Mada
+                                        Mahasiswa Komputer dan Sistem Informasi Sekolah Vokasi Universitas Gadjah Mada
                                     </div>
                                     
                                     
